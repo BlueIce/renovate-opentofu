@@ -8,7 +8,7 @@
       "matchDatasources": [
         "terraform-provider"
       ],
-      "matchPackageNames": [
+      "matchDepNames": [
         "aws"
       ],
       "sourceUrl": "https://github.com/hashicorp/terraform-provider-aws"
