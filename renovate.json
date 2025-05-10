@@ -20,7 +20,7 @@
       "matchDepNames": [
         "terraform-aws-modules/eks/aws"
       ],
-      "sourceUrl": "https://github.com/terraform-aws-modules/terraform-aws-eks/releases"
+      "sourceUrl": "https://github.com/terraform-aws-modules/terraform-aws-eks"
     }
   ]
 }
