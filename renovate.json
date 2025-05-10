@@ -3,6 +3,15 @@
     {
       "matchDatasources": ["terraform-provider", "terraform-module"],
       "registryUrls": ["https://registry.opentofu.org"]
+    },
+    {
+      "matchDatasources": [
+        "terraform-provider"
+      ],
+      "matchPackageNames": [
+        "aws"
+      ],
+      "sourceUrl": "https://github.com/hashicorp/terraform-provider-aws"
     }
   ]
 }
