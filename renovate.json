@@ -12,6 +12,15 @@
         "aws"
       ],
       "sourceUrl": "https://github.com/hashicorp/terraform-provider-aws"
+    },
+    {
+      "matchDatasources": [
+        "terraform-module"
+      ],
+      "matchDepNames": [
+        "terraform-aws-modules/eks/aws"
+      ],
+      "sourceUrl": "https://github.com/terraform-aws-modules/terraform-aws-eks/releases"
     }
   ]
 }
